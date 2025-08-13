@@ -1,2 +1,4 @@
-# tcc-joao10
-trabalho de tcc
+Desenvolvimento de um Robô Seguidor de Linha com Arduino para Fins Educacionais
+Este projeto apresenta o desenvolvimento de um robô seguidor de linha utilizando a plataforma Arduino, com o objetivo de criar uma ferramenta educacional para ensinar conceitos de robótica, programação e eletrônica. O robô é equipado com sensores de infravermelho que permitem que ele siga uma linha predefinida, e é programado utilizando a linguagem de programação Arduino.
+O robô utiliza motores DC e uma ponte H para controlar a velocidade e direção, e é alimentado por uma bateria. O código é escrito em Arduino e utiliza as bibliotecas padrão para controle de motores e leitura de sensores. O robô pode ser programado para seguir uma linha reta ou curva, e pode ser ajustado para diferentes velocidades e direções.
+O objetivo do projeto é desenvolver um robô que possa ser utilizado como ferramenta educacional para ensinar conceitos de robótica, programação e eletrônica de forma prática e interativa. O projeto pode ser expandido e aprimorado para incluir novas funcionalidades e recursos, tornando-o uma ferramenta valiosa para estudantes e professores.
