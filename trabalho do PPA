@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc} % pacote para acentuação
+\usepackage[Brasil]{babel} % para quem vai escrever em portugues brasileiro
+\usepackage[lmargin=3cm,tmargin=3cm,rmargin=2cm,bmargin=2cm]{geometry} %formato que lembra a ABNT
+\usepackage[T1]{fontenc} %Ajusta o texto que vem de outras fontes
+\usepackage{amsmath,amsthm,amsfonts,amssymb,dsfont,mathtools} %pacotes matematicos
+\usepackage{blindtext}
+\usepackage{graphicx}
+\title{\textbf{Projeto do tcc}}
+\date{Setembro 2025}
+
+\begin{document}
+\maketitle
+\section{sobre o robô}
+\subsection{introdução}
+O Robô Seguidor de Linha é um sistema autônomo que detecta e segue um trajeto predefinido no chão, geralmente uma linha de cor contrastante. Seu funcionamento baseia-se em sensores que identificam a linha e enviam dados para um microcontrolador, que processa as informações e controla os motores para manter o robô no percurso. 
+
+Esse tipo de robô tem aplicações em sistemas de transporte automatizado em fábricas e centros de distribuição, onde veículos autônomos seguem rotas pré-estabelecidas para movimentar materiais. Na educação, sua construção ajuda os alunos a desenvolverem habilidades práticas em programação, controle de sistemas, montagem de circuitos e integração de hardware e software.
+\subsection{componentes do robô}
+Utilizando componentes acessíveis, como sensores infravermelhos, motores de corrente contínua e uma plataforma de controle baseada no Lego, o sistema é capaz de identificar e seguir automaticamente a linha no chão, ajustando-se em tempo real às variações do trajeto. O robô seguidor de linha destaca-se por demonstrar, na prática, conceitos importantes de eletrônica, automação e programação, tanto em ambientes industriais quanto educacionais.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.5\linewidth]{robô.jpg}
+    \caption{imagem do robô}
+    \label{fig:placeholder}
+\end{figure}
+
+o robô feito com peças de lego, ele contem um sensor de cor, e  através de codigo por programação onde faz o robo andar e seguir a linha do percurso \ref{Fig01}
+
+\end{document}
